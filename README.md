@@ -1,7 +1,6 @@
 #  About Me:
 🎯 I’m currently working on<br>Sharpening my skills in software development, problem-solving, and building a strong foundation in core computer science concepts.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, learning groups, or innovative ideas where I can contribute and grow alongside others.<br><br>🧠 I’m looking for help with<br>Understanding advanced data structures & algorithms, writing clean and efficient code, and exploring best practices in full-stack development.<br><br>🌱 I’m currently learning<br>Python, JavaScript, Git & GitHub, and diving deeper into Artificial Intelligence and machine learning fundamentals.<br><br>💬 Ask me about<br>Coding practices, debugging tips, learning resources, or anything tech-related that you're curious about!<br><br>⚡ Fun fact<br>I love solving puzzles and challenges — whether it's a coding problem or a brain teaser, I'm always up for it!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvi-kakadiya-97515b287/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvikakadiya231@gmail.com) 
 

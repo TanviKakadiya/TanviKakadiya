@@ -1,4 +1,6 @@
-<h2 align="center">Hello World! I'm Tanvi Kakadiya 👋</h2>
+<h1 align="center" style="background-color:#007BFF;color:white;padding:10px;border-radius:10px;">
+Hello World! I'm Tanvi Kakadiya 👋
+</h1> 
 
 # 💫 About Me:
 💻 AI/ML Enthusiast & Full Stack Development <br>
